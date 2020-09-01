@@ -2,5 +2,10 @@ package com.company;
 
 public class Second
 {
-    private 
+    private int a 420;
+
+    public boolean haj()
+    {
+        return true;
+    }
 }
