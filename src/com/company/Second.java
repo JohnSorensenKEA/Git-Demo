@@ -8,4 +8,9 @@ public class Second
     {
         return true;
     }
+
+    public boolean delfin()
+    {
+        return false;
+    }
 }
