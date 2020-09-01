@@ -2,10 +2,11 @@ package com.company;
 
 public class Second
 {
-    private String name = "Torben";
+    private String name = "Magnus";
 
     public boolean haj()
     {
+
         return true;
     }
 
