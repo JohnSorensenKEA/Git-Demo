@@ -2,7 +2,7 @@ package com.company;
 
 public class Second
 {
-    private int a 420;
+    private String name = "Torben";
 
     public boolean haj()
     {
